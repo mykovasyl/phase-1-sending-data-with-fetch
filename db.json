@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,50 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Mylo",
+      "dogBreed": "Maltese",
+      "id": 3
+    },
+    {
+      "dogName": "Mylo",
+      "dogBreed": "Maltese",
+      "id": 4
+    },
+    {
+      "dogName": "Babydoll",
+      "dogBreed": "Shihtzu",
+      "id": 5
+    },
+    {
+      "dogName": "Babydoll",
+      "dogBreed": "Shihtzu",
+      "id": 6
+    },
+    {
+      "dogName": "holymoly",
+      "dogBreed": "herewego",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
+    },
+    {
+      "dogName": "Byr",
+      "dogBreed": "Shepard",
+      "id": 9
+    },
+    {
+      "dogName": "holymoly",
+      "dogBreed": "herewego",
+      "id": 10
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +63,86 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Myko",
+      "email": "getthatemail@gmail.com",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "name": "Myko",
+      "email": "getthatemail@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Myko",
+      "email": "getthatemail@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Myko",
+      "email": "getthatemail@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Myko",
+      "email": "getthatemail@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Myko",
+      "email": "getthatemail@gmail.com",
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "name": "whataload",
+      "email": "hello",
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "name": "whataload",
+      "email": "hello",
+      "id": 19
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
